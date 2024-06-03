@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m studying Software Development at IFSP<br>I'm currently developing a website on the wars
+I'm just a girl in search of knowledge.
 
 
 ## 🌐 Socials:
