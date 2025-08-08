@@ -1,6 +1,4 @@
-# 💫 About Me:
-I'm just a girl in search of knowledge.
-
+# 💫 Just a girl, seeking knowledge...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danyelle-santana) 
